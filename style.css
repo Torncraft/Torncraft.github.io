@@ -1,0 +1,17 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 200%;
+	background-color: #ddffdd;
+	color: #224422;
+}
+
+
+a:link, a:visited {
+	text-decoration: none;
+	color: #007600;
+}
+
+a:hover, a:active {
+	border-bottom: 1px solid #888888;
+}
+
