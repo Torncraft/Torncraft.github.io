@@ -1,4 +1,4 @@
 Torncraft.github.io
 ===================
 
-Hello! If you want to help, this is the backup webpage for Torncraft! We are working in a new design. You should go to http://www.torncraft.tk
+The GitHub page for the dead minecraft server Torncraft. The (tiny) site is now up at http://Torncraft.github.io/
