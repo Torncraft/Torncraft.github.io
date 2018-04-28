@@ -1,6 +1,7 @@
-body{
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+body {
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 200%;
 	background-color: #ddffdd;
 	color: #224422;
 	margin-left: 128px;
@@ -8,6 +9,9 @@ body{
 	margin-top: 32px;
 }
 
+h1, h2, h3 {
+    font-weight: normal;
+}
 
 a:link, a:visited {
 	text-decoration: none;
