@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
 body {
-	font-family: 'Source Sans Pro', sans-serif;
-	background-color: #ddffdd;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #ddffdd;
     font-size: 200%;
-	color: #224422;
-	margin-left: 128px;
-	margin-right: 128px;
-	margin-top: 32px;
+    color: #224422;
+    margin-left: 128px;
+    margin-right: 128px;
+    margin-top: 32px;
 }
 
 h1, h2, h3 {
@@ -15,11 +15,11 @@ h1, h2, h3 {
 }
 
 a:link, a:visited {
-	text-decoration: none;
-	color: #007600;
+    text-decoration: none;
+    color: #007600;
 }
 
 a:hover, a:active {
-	border-bottom: 1px solid #888888;
+    border-bottom: 1px solid #888888;
 }
 
